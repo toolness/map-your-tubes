@@ -1,6 +1,6 @@
 {
   "name": "map-your-tubes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Collaboratively build a map of the internet with your friends.",
   "bin": {
     "map-your-tubes": "bin/map-your-tubes"
