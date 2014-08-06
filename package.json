@@ -1,0 +1,18 @@
+{
+  "name": "map-your-tubes",
+  "version": "0.0.1",
+  "description": "Collaboratively build a map of the internet with your friends.",
+  "bin": {
+    "map-your-tubes": "bin/map-your-tubes"
+  },
+  "dependencies": {
+    "underscore": "~1.6.0",
+    "websocket": "~1.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atul Varma",
+  "license": "ISC"
+}
